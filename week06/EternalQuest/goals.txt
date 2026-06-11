@@ -1,0 +1,9 @@
+baraka
+460
+6
+SimpleGoal|reading the scripture|10nminutes per day|30|True
+SimpleGoal|sleep early|go to bed on time|500|False
+EternalGoal|sing hymns|2 songs everyday|40
+EternalGoal|pray|pray daily|50
+ChecklistGoal|run|jogging every weekend|400|7|40|1
+NegativeGoal|s|laziness|10|1
